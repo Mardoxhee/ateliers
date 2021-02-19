@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0% 10%;
+    background-color: #c7c7c7;
+}
+h1{
+    width: 100%;
+    font-size: 70px;
+    color: #000000;
+    text-align: center;
+}
+#d1  {
+
+width: 100%;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+font-size: 20px;
+text-align: left;
+}
+a {
+    font-weight: bold;
+    color:#d2002c;
+}
+h2{
+    color: #d2002c;
+    font-size: 35px;
+    margin: 25px 0;
+    margin-left: 0px
+}
+#tableau    {
+    width: 100%;
+    font-size: 20px;
+    border-collapse: collapse;  
+    
+}
+th{
+    height: 30px;
+    background-color: #363636;
+    color: white;
+    padding: 0.5%;
+    
+   
+
+}
+tr{
+    height: 40px;
+    font-size: 16px;
+}
+#tableau tbody tr:hover{
+    background-color: #989898;
+    cursor: pointer;
+}
+tbody tr:nth-child(even){
+     background-color: #dedede;  
+    }
+
+#fg1{
+    background-color: #363636;
+    height: 1000px;
+    width: 95%;
+    border: 5px solid #d2002c;
+    border-radius: 10px;  
+    padding: 2%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+img{
+    height: 95%;
+    width: 100%;
+
+}
+figcaption{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.an{
+font-weight: bold;
+padding: 0.4%;
+
+}
+#d3{
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;    
+}
+
+#d4{
+    width: 80%;
+font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+font-size: 20px;
+text-align: left;
+margin: 0 7.5%;
+border: dashed #5650aa ;
+padding: 1%;
+background-color: #b6b6b6;
+}
+#db{
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;   
+}
+blockquote{
+    font-style: italic;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;   
+    margin: 0 15%;
+}
+#fg2{
+    background-color: #363636;
+    height: 1000px;
+    width: 95%;
+    border: 5px solid #d2002c;
+    border-radius: 10px;  
+    padding: 2%;
+    margin-left: 8px;
+}
+#j {
+    color: #d2002c;
+    font-size: 20px;
+    margin: 25px 0;
+    margin-left: 0px  
+}
+pre  {
+    border: dashed #5650aa ;
+padding: 1%;
+background-color: #b6b6b6;
+width: 50%;
+margin:0 300px;
+}
+h3{
+    margin:0 570px;
+}
+#ab {
+    margin:0 520px;
+    padding: 20px; 
+}
+#sto 
+{
+    margin: 0;
+}
