@@ -1,115 +1,144 @@
-body{background-color: #c8c8c8;
-    margin-left: 40px;
-   width: 100vw;
-
+body{
+    margin: 0;
+    padding: 0% 10%;
+    background-color: #c7c7c7;
 }
-h1  {    
+h1{
+    width: 100%;
     font-size: 70px;
-    color: rgb(36, 35, 35);
+    color: #000000;
     text-align: center;
 }
+#d1  {
 
-a   {font-weight: bold;
-    color: red;
+width: 100%;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+font-size: 20px;
+text-align: left;
 }
-
-section   {
-    width: 1450px;
-    font-family: Arial, Helvetica, sans-serif;
+a {
+    font-weight: bold;
+    color:#d2002c;
+}
+h2{
+    color: #d2002c;
+    font-size: 35px;
+    margin: 25px 0;
+    margin-left: 0px
+}
+#tableau    {
+    width: 100%;
     font-size: 20px;
-    margin-left: 225px;
-  
-}
-section > p  {
-    width: 95%;
+    border-collapse: collapse;  
     
 }
-
-h2  {color: red;
-margin-left: 225px;
-margin-top: 40px;
-
-}
-
-
-.tableau    {
-    
-    width: 1380px;
-    border-collapse: collapse;
-    margin-left: 225px;
-    
-    
- 
-}
-thead tr th {background-color: #333333;
-    padding: 10px;
-color:  white;
-font-size: 20px
-;
-}
-tbody  tr th,td{    
-    padding: 10px;
-}
-tbody tr:nth-child(even){ background-color: #dedede;
-
-}
-figure {
-    background-color: #303030;
-    border: 3px solid red;
-    border-radius: 10px;
-    padding : 2%;
-    margin-left: 225px;
-    width: 1300px;
- margin-bottom: -30px
-    
-    
-  
-    
-}
-.txtbas{
-    margin-left: 225px;
-}
-figcaption {
+th{
+    height: 30px;
+    background-color: #363636;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    padding: 0.5%;
+    
+   
 
 }
-figure img{
-   height: 100%;
-    width:100%;
+tr{
+    height: 40px;
+    font-size: 16px;
+}
+#tableau tbody tr:hover{
+    background-color: #989898;
+    cursor: pointer;
+}
+tbody tr:nth-child(even){
+     background-color: #dedede;  
+    }
+
+#fg1{
+    background-color: #363636;
+    height: 1000px;
+    width: 95%;
+    border: 5px solid #d2002c;
+    border-radius: 10px;  
+    padding: 2%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+img{
+    height: 95%;
+    width: 100%;
+
+}
+figcaption{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.an{
+font-weight: bold;
+padding: 0.4%;
+
+}
+#d3{
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;    
+}
+
+#d4{
+    width: 80%;
+font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+font-size: 20px;
+text-align: left;
+margin: 0 7.5%;
+border: dashed #5650aa ;
+padding: 1%;
+background-color: #b6b6b6;
+}
+#db{
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;   
 }
 blockquote{
-  margin-left: 500px;  
+    font-style: italic;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: left;   
+    margin: 0 15%;
 }
-
-h3  {color: red;
-    margin-left: 225px;
-    margin-top: 40px;
-  }
-  .liste{margin-left: 225px;
-
-  }
-  ul{margin-left: 225px;
-
-
-  }
-  pre{
-      margin-left: 225px;
-  }
-  .lk{
-      margin-left:225px ;
-  }
-  .sect{margin-left: 430px;
-    width: 900px;
-    background-color: #b6b6b6;
-    border:3px dashed #4d47a9 ;
-    border-radius: 0px;
-    padding : 2%;
-    margin-left: 420px;
-    width: 900px;
- margin-bottom: -30px
-
-  }
-tr, :hover{  background-color: #989898;
+#fg2{
+    background-color: #363636;
+    height: 1000px;
+    width: 95%;
+    border: 5px solid #d2002c;
+    border-radius: 10px;  
+    padding: 2%;
+    margin-left: 8px;
+}
+#j {
+    color: #d2002c;
+    font-size: 20px;
+    margin: 25px 0;
+    margin-left: 0px  
+}
+pre  {
+    border: dashed #5650aa ;
+padding: 1%;
+background-color: #b6b6b6;
+width: 50%;
+margin:0 300px;
+}
+h3{
+    margin:0 570px;
+}
+#ab {
+    margin:0 520px;
+    padding: 20px; 
+}
+#sto 
+{
+    margin: 0;
 }
