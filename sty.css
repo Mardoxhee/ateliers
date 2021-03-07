@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+
 body{
+    font-family: 'Libre Baskerville', serif;
     margin: 0;
     padding: 0% 10%;
     background-color: #c7c7c7;
 }
 h1{
+    font-family: 'Libre Baskerville', serif;
     width: 100%;
     font-size: 70px;
     color: #000000;
@@ -11,8 +16,9 @@ h1{
 }
 #d1  {
 
+
 width: 100%;
-font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  font-family: 'Libre Baskerville', serif;
 font-size: 20px;
 text-align: left;
 }
@@ -21,12 +27,14 @@ a {
     color:#d2002c;
 }
 h2{
+    font-family: 'Libre Baskerville', serif;
     color: #d2002c;
     font-size: 35px;
     margin: 25px 0;
     margin-left: 0px
 }
 #tableau    {
+    font-family: 'Libre Baskerville', serif;
     width: 100%;
     font-size: 20px;
     border-collapse: collapse;  
@@ -80,14 +88,14 @@ padding: 0.4%;
 }
 #d3{
     width: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 20px;
     text-align: left;    
 }
 
 #d4{
     width: 80%;
-font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'Libre Baskerville', serif;
 font-size: 20px;
 text-align: left;
 margin: 0 7.5%;
@@ -97,14 +105,14 @@ background-color: #b6b6b6;
 }
 #db{
     width: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 20px;
     text-align: left;   
 }
 blockquote{
     font-style: italic;
     width: 50%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 20px;
     text-align: left;   
     margin: 0 15%;
